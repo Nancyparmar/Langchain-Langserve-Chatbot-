@@ -1,0 +1,10 @@
+id,input,expected,got,correct
+1,What is 2+2?,4,2 + 2 = 4.,True
+2,Capital of India?,New Delhi,New Delhi is the capital city of India.,True
+3,Who wrote Hamlet?,William Shakespeare,"The authorship of Hamlet is a topic of ongoing debate among scholars. The play is believed to have been written by William Shakespeare, with some evidence suggesting that it may have been co-written with other members of the Lord Chamberlain's Men, a theater company later known as the King's Men.
+
+Shakespeare's name appears in several documents related to the play's production, including a bill for actor's fees and a receipt for a performance. Additionally, there are references to ""Will Shakespeare"" in some of the surviving manuscripts.
+
+However, it is also possible that Hamlet was written by multiple authors or actors over time, with Shakespeare's name appearing on later versions of the play.
+
+Despite the uncertainty surrounding the authorship of Hamlet, William Shakespeare is widely accepted as its original writer and one of the greatest writers in the English language.",True

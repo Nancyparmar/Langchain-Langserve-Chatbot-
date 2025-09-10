@@ -1,0 +1,5 @@
+[
+  {"id": 1, "input": "What is 2+2?", "expected": "4", "type": "factual"},
+  {"id": 2, "input": "Capital of India?", "expected": "New Delhi", "type": "factual"},
+  {"id": 3, "input": "Who wrote Hamlet?", "expected": "William Shakespeare", "type": "factual"}
+]
